@@ -13,6 +13,6 @@ body{
     text-align: center;
 }
 .lislide2{
-    display: inline;
+    display: inline-block;
     text-align: center;
 }
