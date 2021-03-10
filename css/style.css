@@ -12,4 +12,7 @@ body{
 .ulslide2{
     text-align: center;
 }
-.lislide2
+.lislide2{
+    display: inline;
+    text-align: center;
+}
